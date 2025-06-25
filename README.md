@@ -41,7 +41,7 @@
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 Email: abhinav@example.com  
-- 🌐 Portfolio: *(Add your personal website if available)*
+- 📧 Email: abhinavkumar28433@gmail.com  
+
 
 ---

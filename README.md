@@ -40,7 +40,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abhinav-kumar-628895218/))
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abhinav-kumar-628895218/)
 - 📧 Email: abhinavkumar28433@gmail.com  
 
 

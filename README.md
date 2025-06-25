@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abhinav Kumar (aka abhinav284)
+# 👋 Hello, I'm Abhinav Kumar 
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhinav284&label=Profile%20Views&color=0e75b6&style=flat)
 

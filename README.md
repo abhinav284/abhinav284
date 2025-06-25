@@ -6,7 +6,7 @@
 
 ### 🧑‍💼 About Me
 
-🎓 I'm a recent B.Tech graduate in Computer Science & Engineering (AI & ML) from CV Raman Global University with a CGPA of 8.73.  
+🎓 I'm a B.Tech graduate in Computer Science & Engineering with a specialization in Artificial Intelligence and Machine Learning.  
 🌍 Based in Kishanganj, Bihar, India.  
 💡 Passionate about building smart solutions using AI, Machine Learning, and Software Engineering.  
 📚 I love exploring new technologies, contributing to real-world projects, and continuously learning.
@@ -42,6 +42,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)
 - 📧 Email: abhinav@example.com  
-- 🌐 Portfolio: *(Add your personal website link if available)*
+- 🌐 Portfolio: *(Add your personal website if available)*
 
 ---
